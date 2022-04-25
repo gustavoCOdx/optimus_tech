@@ -155,3 +155,51 @@ ul li a{
     margin: 0 8px;
     align-self: stretch;
 }
+
+.paragrafo3{
+    color: #8e2424;
+    text-align: center;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.paragrafo4{
+    color: #101828;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-size: 36px;
+}
+
+.avatar{
+    width: 56px;
+    height: 56px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragrafo5{
+    color: #101828;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-size: 16px;
+}
+
+.paragrafo6{
+    color: #667085;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px;
+}
+
+.depoimentos{
+    background: rgba(196, 25, 25, 0.03);
+    width: 1200px;
+    height: 380px;
+    border-radius: 16px;
+    margin: 0 auto;
+}
