@@ -123,3 +123,35 @@ ul li a{
     margin-left: auto;
     margin-right: auto;    
 }
+
+.profissao{
+    font-size: 20px;
+    width: 768px;
+    margin: 0 auto;
+}
+
+.vaga{
+    width: 768px;
+    margin: 50px auto;
+    border: 1px solid #eaecf0;
+    display: flex;
+    flex-direction: column;
+    padding: 24px 24px 28px;
+    border-radius: 16px;
+}
+
+.titulo-vaga{
+    width: 720px;
+    height: 28px;
+    font-size: 18px;
+    align-self: stretch;
+    margin: 8px 8px 28px;
+    font-weight: 750;
+}
+
+.informacoes{
+    color: #667085;
+    font-size: 16px;
+    margin: 0 8px;
+    align-self: stretch;
+}
