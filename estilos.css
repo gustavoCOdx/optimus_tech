@@ -203,3 +203,52 @@ ul li a{
     border-radius: 16px;
     margin: 0 auto;
 }
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 94px;
+    margin: 100px auto;
+    background: #F9FAFB;
+}
+
+.formulario h1 {
+    font-size: 36px;
+    margin: 0 0 10px;
+}
+
+.formulario h2 {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--text-color);
+    margin: 0 0 20px;
+}
+
+.formulario ul li {
+    margin: 0;
+}
+
+.formulario input {
+    background: #FFFFFF;
+    border: 1px solid #D0D5DD;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    align-items: center;
+    padding: 12px 14px 12px 16px;
+}
+
+.formulario a {
+    color: white;
+    background: var(--main-color);
+    border: 1px solid var(--main-color);
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.formulario p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--text-color);
+}
